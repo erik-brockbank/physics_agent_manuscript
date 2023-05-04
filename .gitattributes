@@ -1,0 +1,2 @@
+results/csv/physics_continual_learning_trialdata_e2_full.csv filter=lfs diff=lfs merge=lfs -text
+results/csv/physics_continual_learning_surveydata_e2_full.csv filter=lfs diff=lfs merge=lfs -text
